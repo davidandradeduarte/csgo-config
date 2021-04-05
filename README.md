@@ -17,3 +17,4 @@
 Windows mouse speed default  
 [vibranceGUI](https://vibrancegui.com/) for screen saturation (only applies when in-game)  
 [PrimaryLock](https://steamcommunity.com/linkfilter/http://s382701517.online.de/apps/PrimaryLock.zip) to avoid miss click on side monitors (http://dualmonitortool.sourceforge.net/ is another alternative)  
+[cevo.cfg](cevo.cfg) for a custom 5v5 (or you can get [popflash](https://popflash.site/)'s matchmaking configs from [here](https://github.com/PopFlash/config))

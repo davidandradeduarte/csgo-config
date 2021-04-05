@@ -1,0 +1,3 @@
+[submodule "popflash-config"]
+	path = popflash-config
+	url = https://github.com/PopFlash/config.git
